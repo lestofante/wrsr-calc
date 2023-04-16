@@ -30,23 +30,19 @@ Clothing Factory	80	3.6	1.6	Fabric	2.4									Clothes	1.2
 Fabric Factory	100	13	2	Crops	20	Chemicals	0.5	Water	11					Fabric	5		
 Distillery	100	13	2	Crops	30	Water	13							Alcohol	6		
 Food Factory	170	7.6	3.4	Crops	42	Water	8.5							Food	20		
-																	
 Big Farm	250			NA										Crops	300		
 Medium Farm	150			NA										Crops	100		
 Small Farm	75			NA										Crops	50		
-																	
 Nuclear Fuel Fabrication	120	52	2.4	UF6	0.4	Chemicals	0.75							Nuclear Fuel	0.095		
 Uranium Conversion Plant	120	58	2.4	Uranium Oxide	2	Chemicals	0.21							UF6	0.96		
 Uranium Proc	75	38	1.5	Uranium Ore	36									Uranium Oxide	1.7		
 Uranium Mine	100	4.5	2	NA										Uranium Ore	75		
-																	
 Small Water Well	NA	5.1	NA											Water	70		
 Big Water Well	7	8.9	NA											Water	1505		
 Small Wtr Treatment Plant	5	10	0.1	Water	120	Chemicals	0.25							Water	117.6		
 Big Wtr Treatment Plant	10	13	0.2	Water	300	Chemicals	0.47							Water	294		
 Small Sewage Treat Plant	10	11	0.2	Sewage	165	Chemicals	0.32							Sewage	85.8		
 Big Sewage Treat Plant	20	15	0.4	Sewage	440	Chemicals	0.6							Sewage	228.8		
-																	
 Small Wind Turbine	0	0	0	NA										Power	15		
 Large Wind Turbine	0	0	0	NA										Power	35		
 Solar Power Plant	8		0.16	NA										Power	560		
@@ -54,6 +50,5 @@ Coal Power Plant	20	NA	0.4	Coal	24									Power	1400
 Gas Power Plant	15	NA	0.3	Oil	8.8									Power	1050		
 Single Nuclear Power Plant	60	NA	1.2	Nuclear Fuel	0.04	Water	6.8							Power	4680		
 Twin Nuclear Power Plant	120	NA	2.4	Nuclear Fuel	0.08	Water	13							Power	9360		
-																	
 Large Heating Plant	30		0.6	Coal	8.4									Heat	210		
 Small Heating Plant	7		0.14	Coal	2.1									Heat	42		
