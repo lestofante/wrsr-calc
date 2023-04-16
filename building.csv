@@ -1,0 +1,59 @@
+Building	Number of Workers	Power Req	Water Req	Input 1	No.	Input 2	No.	Input 3	No.	Input 4	No.	Input 5	No.	Output 1	No.	Output 2	No.
+Oil Refinery	500	36	10	Oil	250									Fuel	125	Bitumen	75
+Oil Well	0	6.9	0	NA										Oil	7	NA	
+Steel Mill	500	48	10	Iron	200	Coal	375							Steel	43		
+Iron Proc	15	16	0.3	Iron Ore	225									Iron	105		
+Iron Mine	250	11	5	NA										Iron Ore	1000		
+Coal Proc	15	15	0.3	Coal Ore	210									Coal	120		
+Coal Mine	220	9.2	4.4	NA										Coal Ore	924		
+Slaughterhouse	50	3	1.56	Livestock	250									Meat	125		
+Livestock Farm	50	3	2.3	Crops	10	Water	12							Livestock	5		
+Brick Factory	75	3	1.5	Coal	33									Bricks	51		
+Aluminum Mill	350	151	7	Aluminum Oxide	52	Chemicals	2.5							Aluminum	30		
+Alumina Plant	370	11	7.4	Bauxite	77	Coal	29	Chemicals	2.6	Water	29			Aluminum Oxide	33		
+Bauxite Plant	25	3	0.5	Raw Bauxite	125									Bauxite	75		
+Bauxite Mine	45	4.3	0.9	NA										Raw Bauxite	22.5		
+Chemical Plant	50	25	1.2	Oil	1	Crops	0.5	Gravel	0.5	Wood	0.5	Water	10	Chemicals	0.5		
+Prefab Panels Factory	65	8	1.3	Cement	9.8	Gravel	65							Prefab Panels	71		
+Asphalt Plant	5	18	0.1	Bitumen	20	Gravel	125							Asphalt	145		
+Concrete Plant	5	15	85.1	Cement	30	Gravel	135	Water	85.1					Concrete	175		
+Cement Plant	30	6.9	0.6	Coal	22	Gravel	210							Cement	81		
+Gravel Plant	15	24	0.3	Quarried Stone	120									Gravel	82		
+Gravel Quarry	40	3	NA	NA										Quarried Stone	140		
+Sawmill	20	4.5	0.4	Wood	180									Boards	140		
+Woodcutting Post	30	7.3	0.6	NA										Wood	189		
+Plastics Factory	60	20	1.2	Chemicals	3	Oil	27							Plastics	6.6		
+Electronics Assembly Hall	150	5.4	3	Elec Comp	1.5	Plastics	2.3	Mech Comp	1.5					Electronics	4.5		
+Elec Components Factory	150	6.3	3	Plastics	1.5	Steel	1.5	Chemicals	1.2					Elec Comp	3.8		
+Mech Components Factory	150	8.1	3	Steel	22									Mech Comp	15		
+Clothing Factory	80	3.6	1.6	Fabric	2.4									Clothes	1.2		
+Fabric Factory	100	13	2	Crops	20	Chemicals	0.5	Water	11					Fabric	5		
+Distillery	100	13	2	Crops	30	Water	13							Alcohol	6		
+Food Factory	170	7.6	3.4	Crops	42	Water	8.5							Food	20		
+																	
+Big Farm	250			NA										Crops	300		
+Medium Farm	150			NA										Crops	100		
+Small Farm	75			NA										Crops	50		
+																	
+Nuclear Fuel Fabrication	120	52	2.4	UF6	0.4	Chemicals	0.75							Nuclear Fuel	0.095		
+Uranium Conversion Plant	120	58	2.4	Uranium Oxide	2	Chemicals	0.21							UF6	0.96		
+Uranium Proc	75	38	1.5	Uranium Ore	36									Uranium Oxide	1.7		
+Uranium Mine	100	4.5	2	NA										Uranium Ore	75		
+																	
+Small Water Well	NA	5.1	NA											Water	70		
+Big Water Well	7	8.9	NA											Water	1505		
+Small Wtr Treatment Plant	5	10	0.1	Water	120	Chemicals	0.25							Water	117.6		
+Big Wtr Treatment Plant	10	13	0.2	Water	300	Chemicals	0.47							Water	294		
+Small Sewage Treat Plant	10	11	0.2	Sewage	165	Chemicals	0.32							Sewage	85.8		
+Big Sewage Treat Plant	20	15	0.4	Sewage	440	Chemicals	0.6							Sewage	228.8		
+																	
+Small Wind Turbine	0	0	0	NA										Power	15		
+Large Wind Turbine	0	0	0	NA										Power	35		
+Solar Power Plant	8		0.16	NA										Power	560		
+Coal Power Plant	20	NA	0.4	Coal	24									Power	1400		
+Gas Power Plant	15	NA	0.3	Oil	8.8									Power	1050		
+Single Nuclear Power Plant	60	NA	1.2	Nuclear Fuel	0.04	Water	6.8							Power	4680		
+Twin Nuclear Power Plant	120	NA	2.4	Nuclear Fuel	0.08	Water	13							Power	9360		
+																	
+Large Heating Plant	30		0.6	Coal	8.4									Heat	210		
+Small Heating Plant	7		0.14	Coal	2.1									Heat	42		
