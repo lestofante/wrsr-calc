@@ -1,22 +1,22 @@
 [application]
 
 # App (Project) Name
-name = "{{project-name}}"
+name = "wrsr-calc"
 
 # Dioxus App Default Platform
 # desktop, web, mobile, ssr
 default_platform = "web"
 
 # `build` & `serve` dist path
-out_dir = "dist"
+out_dir = "docs"
 
 # resource (public) file folder
-asset_dir = "{{project-name}}"
+asset_dir = "wrsr-calc"
 
 [web.app]
 
 # HTML title tag content
-title = "{{project-name}}"
+title = "wrsr-calc"
 
 [web.watcher]
 
