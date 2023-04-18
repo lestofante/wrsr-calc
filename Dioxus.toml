@@ -11,12 +11,13 @@ default_platform = "web"
 out_dir = "docs"
 
 # resource (public) file folder
-asset_dir = "wrsr-calc"
+asset_dir = "public"
 
 [web.app]
 
 # HTML title tag content
 title = "wrsr-calc"
+base_path = "wrsr-calc"
 
 [web.watcher]
 
