@@ -16,7 +16,8 @@ asset_dir = "public"
 [web.app]
 
 # HTML title tag content
-title = "wrsr-calc"
+title = "dioxus | ⛺"
+
 base_path = "wrsr-calc"
 
 [web.watcher]
@@ -31,13 +32,13 @@ watch_path = ["src", "public"]
 [web.resource]
 
 # CSS style file
-style = []
+#style = []
 
 # Javascript code file
-script = []
+#script = []
 
 [web.resource.dev]
 
 # Javascript code file
 # serve: [dev-server] only
-script = []
+#script = []

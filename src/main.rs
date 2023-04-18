@@ -33,6 +33,7 @@ fn App(cx: Scope) -> Element {
             .text()
             .await
     }).value();
+
     if contents.is_none(){
         return cx.render(rsx!(div{"waiting data"}));
     }
